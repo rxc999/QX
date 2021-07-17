@@ -79,7 +79,13 @@
 # 手机qq进入左侧会员，滑动即可
 0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png, enabled=true
 
-
+{
+    "name":"冉鑫超自用",
+    "Image" : "https://qxzy.top/images/logo.png",
+    "task":[
+      
+    ]
+}
 
 
 
